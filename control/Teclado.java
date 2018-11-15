@@ -20,7 +20,7 @@ public class Teclado implements KeyListener{
     
     
     public void keyTyped(KeyEvent e) {
-        
+        // TODOO
     }
 
     
