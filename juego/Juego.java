@@ -37,7 +37,7 @@ public class Juego extends Canvas implements Runnable {
         ventana.setLayout(new BorderLayout());
         //  Canvas al centro de la ventana
         ventana.add(this, BorderLayout.CENTER);
-        //  Todo el tamanio se ajusta a la ventana
+        //  Ajuste a la ventana
         ventana.pack();
         // Centra ventana
         ventana.setLocationRelativeTo(null);
